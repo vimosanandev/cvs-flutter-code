@@ -20,3 +20,11 @@ A Flutter application that displays a list of photos with their details.
 - `dio`: Network calling
 - `retrofit`: Rest API generating
 
+
+## Screenshots
+Portrait Mode: 
+![img.png](img.png) 
+
+Landscape Mode:
+![img_1.png](img_1.png)
+

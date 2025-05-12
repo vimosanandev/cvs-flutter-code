@@ -11,7 +11,10 @@ class PhotosPage extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      appBar: AppBar(title: Text("Photos")),
+      appBar: AppBar(
+        title: Text("Photos", style: TextStyle(color: Colors.white)),
+        backgroundColor: Colors.purple.shade500,
+      ),
       body: BlocProvider(
         create: (_) => PhotoCubit()..fetchPhotos(),
         child: BlocBuilder<PhotoCubit, PhotoState>(
