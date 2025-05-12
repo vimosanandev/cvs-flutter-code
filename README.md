@@ -23,8 +23,6 @@ A Flutter application that displays a list of photos with their details.
 
 ## Screenshots
 Portrait Mode: 
-![img.png](img.png) 
-
+![Simulator Screenshot - iPad Pro 11-inch (M4) - 2025-05-12 at 16.20.18.png](../../../../Desktop/Simulator%20Screenshot%20-%20iPad%20Pro%2011-inch%20%28M4%29%20-%202025-05-12%20at%2016.20.18.png)
 Landscape Mode:
-![img_1.png](img_1.png)
-
+![Simulator Screenshot - iPad Pro 11-inch (M4) - 2025-05-12 at 16.21.57.png](../../../../Desktop/Simulator%20Screenshot%20-%20iPad%20Pro%2011-inch%20%28M4%29%20-%202025-05-12%20at%2016.21.57.png)
