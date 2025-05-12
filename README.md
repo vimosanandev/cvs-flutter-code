@@ -1,16 +1,13 @@
-# test_cvs
+# Photo Gallery App
 
-A new Flutter project.
+A Flutter application that displays a list of photos with their details.
 
-## Getting Started
+## Prerequisites
 
-This project is a starting point for a Flutter application.
+- Flutter SDK (latest stable version)
+- Dart SDK (latest stable version)
+- An IDE (VS Code, Android Studio, etc.)
 
-A few resources to get you started if this is your first Flutter project:
+## Installation
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. Clone the repository:
